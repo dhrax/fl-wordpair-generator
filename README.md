@@ -1,2 +1,3 @@
 # fl-wordpair-generator
-Simple wordpair generator developed in flutter
+
+A simple wordpair generator
